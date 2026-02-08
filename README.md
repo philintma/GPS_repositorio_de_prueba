@@ -1,5 +1,5 @@
 #Resumen de la practica
-Habituarnos al ciclo de trabajo con Git
+Habituarnos al ciclo de trabajo con Git aaaaa
 
 # Hundir la Flota
 Este es el pequeño juego de hundir la flota realizado en JAVA
