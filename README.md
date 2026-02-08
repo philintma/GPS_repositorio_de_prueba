@@ -1,3 +1,6 @@
+#Resumen de la practica
+Habituarnos al ciclo de trabajo con Git
+
 # Hundir la Flota
 Este es el pequeño juego de hundir la flota realizado en JAVA
 Se genera un tablero en la consola y hay que adivinar en que posición estan los barcos
