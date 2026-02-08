@@ -1,6 +1,7 @@
 #Resumen de la practica
 Habituarnos al ciclo de trabajo con Git aaaaa aa a
 Esta es una modificación inutil aaaaaaaaa
+Esta es una modificación inutil -- no digas eso, valórate
 
 Modificación realizada por alumno B en el archivo readme para generar error de tipo 2
 
