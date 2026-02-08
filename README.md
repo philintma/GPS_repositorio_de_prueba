@@ -1,12 +1,3 @@
-#Resumen de la practica
-Habituarnos al ciclo de trabajo con Git aaaaa aa a
-Esta es una modificación inutil aaaaaaaaa
-Esta es una modificación inutil -- no digas eso, valórate
-
-Esta es una modificación que va a causar muuuchas problemas
-
-Modificación realizada por alumno B en el archivo readme para generar error de tipo 2
-
 # Hundir la Flota
 Este es el pequeño juego de hundir la flota realizado en JAVA
 Se genera un tablero en la consola y hay que adivinar en que posición estan los barcos
