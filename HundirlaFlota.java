@@ -3,6 +3,10 @@ package hundirlaflota;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/*
+    Modificación sin ningún tipo de repercusión al código pero que creará conflictos :)
+*/ 
+
 /**
  *
  * @author Fermín Ortega Domínguez
